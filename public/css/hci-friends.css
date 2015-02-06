@@ -12,3 +12,14 @@
 h1, h2, h3, h4, h5 {
 	color: #8382BF;
 }
+
+.friend{
+	width: 300px;
+	margin-left: 5px;
+	padding: 5px;
+
+}
+.names{
+	color: #8382BF;
+	font-size: 14px; 
+}
